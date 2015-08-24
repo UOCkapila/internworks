@@ -45,6 +45,6 @@ public class Viwer {
                 default:
                     value=0;
             }
-        }
+        }System.exit(0);
     }
 }
