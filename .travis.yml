@@ -1,1 +1,6 @@
 language: java
+deploy:
+  provider: s3
+  access_key_id: "AKIAICFU5ZJZD4JYGOAQ"
+  secret_access_key: "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"
+  bucket: "arn:aws:s3:::tevisci-onta"
